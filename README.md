@@ -35,3 +35,10 @@ Actionable Insights: Providing actionable insights and recommendations for optim
 6. Report and Presentation
 Documentation: Documenting the entire process, including data preparation, EDA, clustering, and insights.
 Presentation: Preparing a comprehensive report and presentation to communicate findings and recommendations to stakeholders.
+
+Skills Gained
+Data analysis and visualization with ggplot2.
+Unsupervised learning and clustering with K-means.
+Determining optimal clusters using various methods.
+Enhanced understanding of customer segmentation.
+Practical experience with R programming and data science techniques.
